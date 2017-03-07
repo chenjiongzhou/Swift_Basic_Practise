@@ -19,6 +19,7 @@
 		A903D8FB1E6EB24B0046E010 /* JZAccountController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A903D8FA1E6EB24B0046E010 /* JZAccountController.swift */; };
 		A903D8FD1E6EB2690046E010 /* JZTabBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = A903D8FC1E6EB2690046E010 /* JZTabBar.swift */; };
 		A903D8FF1E6EB6880046E010 /* JZExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = A903D8FE1E6EB6880046E010 /* JZExtensions.swift */; };
+		A903D9011E6EC2250046E010 /* JZGlobalVars.swift in Sources */ = {isa = PBXBuildFile; fileRef = A903D9001E6EC2250046E010 /* JZGlobalVars.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +37,7 @@
 		A903D8FA1E6EB24B0046E010 /* JZAccountController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JZAccountController.swift; sourceTree = "<group>"; };
 		A903D8FC1E6EB2690046E010 /* JZTabBar.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JZTabBar.swift; sourceTree = "<group>"; };
 		A903D8FE1E6EB6880046E010 /* JZExtensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JZExtensions.swift; sourceTree = "<group>"; };
+		A903D9001E6EC2250046E010 /* JZGlobalVars.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JZGlobalVars.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +73,7 @@
 				A903D8DB1E6EAE450046E010 /* AppDelegate.swift */,
 				A903D8DF1E6EAE450046E010 /* Main.storyboard */,
 				A903D8FE1E6EB6880046E010 /* JZExtensions.swift */,
+				A903D9001E6EC2250046E010 /* JZGlobalVars.swift */,
 				A903D8ED1E6EAF260046E010 /* Model */,
 				A903D8EE1E6EAF260046E010 /* View */,
 				A903D8EF1E6EAF260046E010 /* Controller */,
@@ -185,6 +188,7 @@
 				A903D8FF1E6EB6880046E010 /* JZExtensions.swift in Sources */,
 				A903D8FD1E6EB2690046E010 /* JZTabBar.swift in Sources */,
 				A903D8DC1E6EAE450046E010 /* AppDelegate.swift in Sources */,
+				A903D9011E6EC2250046E010 /* JZGlobalVars.swift in Sources */,
 				A903D8F91E6EB2370046E010 /* JZSubscriptionsController.swift in Sources */,
 				A903D8F51E6EB20A0046E010 /* JZHomeController.swift in Sources */,
 				A903D8F11E6EAF540046E010 /* JZNavigationController.swift in Sources */,
@@ -349,6 +353,7 @@
 				A903D8EC1E6EAE450046E010 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
